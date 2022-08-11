@@ -1,11 +1,11 @@
 {
-  "name": "icecream-team2",
+  "name": "iuuyytrr",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://bzhezinskyi.github.io/IceCream-team2",
+  "homepage": "https://bzhezinskyi.github.io/iuuyytrr",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCream-team2/"
+    "build": "parcel build src/*.html --public-url /iuuyytrr/"
   },
   "repository": {
     "type": "git",
